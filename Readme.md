@@ -27,16 +27,6 @@ Fake-News-Detection-main/
 
 ---
 
-## 📊 Example Visualizations
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/wordcloud_true.png" width="350"/>
-  <img src="https://user-images.githubusercontent.com/placeholder/wordcloud_fake.png" width="350"/>
-</p>
-<p align="center">
-  <em>Word clouds for True and Fake news titles</em>
-</p>
-
 ---
 
 ## 🛠️ How to Run
